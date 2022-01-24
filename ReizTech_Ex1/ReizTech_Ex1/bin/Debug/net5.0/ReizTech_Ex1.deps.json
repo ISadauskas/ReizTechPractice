@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ReizTech_Ex1/1.0.0": {
+        "runtime": {
+          "ReizTech_Ex1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReizTech_Ex1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

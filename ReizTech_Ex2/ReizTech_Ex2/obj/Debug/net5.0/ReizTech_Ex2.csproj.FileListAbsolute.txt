@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\bin\Debug\net5.0\ReizTech_Ex2.exe
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\bin\Debug\net5.0\ReizTech_Ex2.deps.json
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\bin\Debug\net5.0\ReizTech_Ex2.runtimeconfig.json
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\bin\Debug\net5.0\ReizTech_Ex2.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\bin\Debug\net5.0\ReizTech_Ex2.dll
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\bin\Debug\net5.0\ref\ReizTech_Ex2.dll
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\bin\Debug\net5.0\ReizTech_Ex2.pdb
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\obj\Debug\net5.0\ReizTech_Ex2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\obj\Debug\net5.0\ReizTech_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\obj\Debug\net5.0\ReizTech_Ex2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\obj\Debug\net5.0\ReizTech_Ex2.AssemblyInfo.cs
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\obj\Debug\net5.0\ReizTech_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\obj\Debug\net5.0\ReizTech_Ex2.dll
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\obj\Debug\net5.0\ref\ReizTech_Ex2.dll
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\obj\Debug\net5.0\ReizTech_Ex2.pdb
+C:\Users\PC\source\repos\ReizTech_Ex2\ReizTech_Ex2\obj\Debug\net5.0\ReizTech_Ex2.genruntimeconfig.cache
